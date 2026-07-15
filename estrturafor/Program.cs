@@ -26,4 +26,4 @@ while (numero < 1 || numero > 10)
     {
         Console.WriteLine("Número válido: " + numero);
     }
-}
+}meu cu
