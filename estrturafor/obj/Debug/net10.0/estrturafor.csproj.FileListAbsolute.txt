@@ -1,0 +1,15 @@
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\bin\Debug\net10.0\estrturafor.exe
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\bin\Debug\net10.0\estrturafor.deps.json
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\bin\Debug\net10.0\estrturafor.runtimeconfig.json
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\bin\Debug\net10.0\estrturafor.dll
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\bin\Debug\net10.0\estrturafor.pdb
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.AssemblyInfoInputs.cache
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.AssemblyInfo.cs
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.csproj.CoreCompileInputs.cache
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.sourcelink.json
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.dll
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\refint\estrturafor.dll
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.pdb
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\estrturafor.genruntimeconfig.cache
+C:\Users\peruc\OneDrive\Documentos\estudos\1\estrturafor\obj\Debug\net10.0\ref\estrturafor.dll
